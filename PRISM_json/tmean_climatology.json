@@ -1,0 +1,674 @@
+[
+    {
+        "legends": {
+            "default": "v1",
+            "v1": {
+                "units": "Celcius (C)",
+                "colormap_tick_labels": {
+                    "0.9": "",
+                    "0.8": "22.0",
+                    "1.0": "> 30.0",
+                    "0.1": "",
+                    "0.0": "< -10.0",
+                    "0.3": "",
+                    "0.2": "-2.0",
+                    "0.5": "",
+                    "0.4": "6.0",
+                    "0.7": "",
+                    "0.6": "14.0"
+                }
+            },
+            "v2": {
+                "units": "Celcius (F)",
+                "colormap_tick_labels": {
+                    "0.9": "",
+                    "0.8": "71.6",
+                    "1.0": "> 71.6",
+                    "0.1": "",
+                    "0.0": "< 28.4",
+                    "0.3": "",
+                    "0.2": "28.4",
+                    "0.5": "",
+                    "0.4": "42.8",
+                    "0.7": "",
+                    "0.6": "57.2"
+                }
+            }
+        },
+        "colorbar_url": "http://lsetiawan.github.io/PRISM_png/colorbar/tmean_colorbar.png",
+        "model_date": "2016-03-25T00:00:00Z",
+        "colormap_long_pixels": 256,
+        "colormap_short_pixels": 16,
+        "values": {
+            "max": 20.94126701355,
+            "min": -17.300689697266
+        },
+        "bbox": [
+            -125.021,
+            24.062,
+            -66.479,
+            49.938
+        ],
+        "key": "January",
+        "var": "Mean Air Temperature",
+        "image_url": "http://lsetiawan.github.io/PRISM_png/tmean_01.png",
+        "creation_timestamp": 1460505474,
+        "colormap": "tmean_colorbar"
+    },
+    {
+        "legends": {
+            "default": "v1",
+            "v1": {
+                "units": "Celcius (C)",
+                "colormap_tick_labels": {
+                    "0.9": "",
+                    "0.8": "22.0",
+                    "1.0": "> 30.0",
+                    "0.1": "",
+                    "0.0": "< -10.0",
+                    "0.3": "",
+                    "0.2": "-2.0",
+                    "0.5": "",
+                    "0.4": "6.0",
+                    "0.7": "",
+                    "0.6": "14.0"
+                }
+            },
+            "v2": {
+                "units": "Celcius (F)",
+                "colormap_tick_labels": {
+                    "0.9": "",
+                    "0.8": "71.6",
+                    "1.0": "> 71.6",
+                    "0.1": "",
+                    "0.0": "< 28.4",
+                    "0.3": "",
+                    "0.2": "28.4",
+                    "0.5": "",
+                    "0.4": "42.8",
+                    "0.7": "",
+                    "0.6": "57.2"
+                }
+            }
+        },
+        "colorbar_url": "http://lsetiawan.github.io/PRISM_png/colorbar/tmean_colorbar.png",
+        "model_date": "2016-03-25T00:00:00Z",
+        "colormap_long_pixels": 256,
+        "colormap_short_pixels": 16,
+        "values": {
+            "max": 21.4017162323,
+            "min": -14.497778892517
+        },
+        "bbox": [
+            -125.021,
+            24.062,
+            -66.479,
+            49.938
+        ],
+        "key": "February",
+        "var": "Mean Air Temperature",
+        "image_url": "http://lsetiawan.github.io/PRISM_png/tmean_02.png",
+        "creation_timestamp": 1460505474,
+        "colormap": "tmean_colorbar"
+    },
+    {
+        "legends": {
+            "default": "v1",
+            "v1": {
+                "units": "Celcius (C)",
+                "colormap_tick_labels": {
+                    "0.9": "",
+                    "0.8": "22.0",
+                    "1.0": "> 30.0",
+                    "0.1": "",
+                    "0.0": "< -10.0",
+                    "0.3": "",
+                    "0.2": "-2.0",
+                    "0.5": "",
+                    "0.4": "6.0",
+                    "0.7": "",
+                    "0.6": "14.0"
+                }
+            },
+            "v2": {
+                "units": "Celcius (F)",
+                "colormap_tick_labels": {
+                    "0.9": "",
+                    "0.8": "71.6",
+                    "1.0": "> 71.6",
+                    "0.1": "",
+                    "0.0": "< 28.4",
+                    "0.3": "",
+                    "0.2": "28.4",
+                    "0.5": "",
+                    "0.4": "42.8",
+                    "0.7": "",
+                    "0.6": "57.2"
+                }
+            }
+        },
+        "colorbar_url": "http://lsetiawan.github.io/PRISM_png/colorbar/tmean_colorbar.png",
+        "model_date": "2016-03-25T00:00:00Z",
+        "colormap_long_pixels": 256,
+        "colormap_short_pixels": 16,
+        "values": {
+            "max": 22.98152923584,
+            "min": -9.1011152267456
+        },
+        "bbox": [
+            -125.021,
+            24.062,
+            -66.479,
+            49.938
+        ],
+        "key": "March",
+        "var": "Mean Air Temperature",
+        "image_url": "http://lsetiawan.github.io/PRISM_png/tmean_03.png",
+        "creation_timestamp": 1460505474,
+        "colormap": "tmean_colorbar"
+    },
+    {
+        "legends": {
+            "default": "v1",
+            "v1": {
+                "units": "Celcius (C)",
+                "colormap_tick_labels": {
+                    "0.9": "",
+                    "0.8": "22.0",
+                    "1.0": "> 30.0",
+                    "0.1": "",
+                    "0.0": "< -10.0",
+                    "0.3": "",
+                    "0.2": "-2.0",
+                    "0.5": "",
+                    "0.4": "6.0",
+                    "0.7": "",
+                    "0.6": "14.0"
+                }
+            },
+            "v2": {
+                "units": "Celcius (F)",
+                "colormap_tick_labels": {
+                    "0.9": "",
+                    "0.8": "71.6",
+                    "1.0": "> 71.6",
+                    "0.1": "",
+                    "0.0": "< 28.4",
+                    "0.3": "",
+                    "0.2": "28.4",
+                    "0.5": "",
+                    "0.4": "42.8",
+                    "0.7": "",
+                    "0.6": "57.2"
+                }
+            }
+        },
+        "colorbar_url": "http://lsetiawan.github.io/PRISM_png/colorbar/tmean_colorbar.png",
+        "model_date": "2016-03-25T00:00:00Z",
+        "colormap_long_pixels": 256,
+        "colormap_short_pixels": 16,
+        "values": {
+            "max": 24.717437744141,
+            "min": -4.9532232284546
+        },
+        "bbox": [
+            -125.021,
+            24.062,
+            -66.479,
+            49.938
+        ],
+        "key": "April",
+        "var": "Mean Air Temperature",
+        "image_url": "http://lsetiawan.github.io/PRISM_png/tmean_04.png",
+        "creation_timestamp": 1460505474,
+        "colormap": "tmean_colorbar"
+    },
+    {
+        "legends": {
+            "default": "v1",
+            "v1": {
+                "units": "Celcius (C)",
+                "colormap_tick_labels": {
+                    "0.9": "",
+                    "0.8": "22.0",
+                    "1.0": "> 30.0",
+                    "0.1": "",
+                    "0.0": "< -10.0",
+                    "0.3": "",
+                    "0.2": "-2.0",
+                    "0.5": "",
+                    "0.4": "6.0",
+                    "0.7": "",
+                    "0.6": "14.0"
+                }
+            },
+            "v2": {
+                "units": "Celcius (F)",
+                "colormap_tick_labels": {
+                    "0.9": "",
+                    "0.8": "71.6",
+                    "1.0": "> 71.6",
+                    "0.1": "",
+                    "0.0": "< 28.4",
+                    "0.3": "",
+                    "0.2": "28.4",
+                    "0.5": "",
+                    "0.4": "42.8",
+                    "0.7": "",
+                    "0.6": "57.2"
+                }
+            }
+        },
+        "colorbar_url": "http://lsetiawan.github.io/PRISM_png/colorbar/tmean_colorbar.png",
+        "model_date": "2016-03-25T00:00:00Z",
+        "colormap_long_pixels": 256,
+        "colormap_short_pixels": 16,
+        "values": {
+            "max": 28.070079803467,
+            "min": -0.26825615763664
+        },
+        "bbox": [
+            -125.021,
+            24.062,
+            -66.479,
+            49.938
+        ],
+        "key": "May",
+        "var": "Mean Air Temperature",
+        "image_url": "http://lsetiawan.github.io/PRISM_png/tmean_05.png",
+        "creation_timestamp": 1460505474,
+        "colormap": "tmean_colorbar"
+    },
+    {
+        "legends": {
+            "default": "v1",
+            "v1": {
+                "units": "Celcius (C)",
+                "colormap_tick_labels": {
+                    "0.9": "",
+                    "0.8": "22.0",
+                    "1.0": "> 30.0",
+                    "0.1": "",
+                    "0.0": "< -10.0",
+                    "0.3": "",
+                    "0.2": "-2.0",
+                    "0.5": "",
+                    "0.4": "6.0",
+                    "0.7": "",
+                    "0.6": "14.0"
+                }
+            },
+            "v2": {
+                "units": "Celcius (F)",
+                "colormap_tick_labels": {
+                    "0.9": "",
+                    "0.8": "71.6",
+                    "1.0": "> 71.6",
+                    "0.1": "",
+                    "0.0": "< 28.4",
+                    "0.3": "",
+                    "0.2": "28.4",
+                    "0.5": "",
+                    "0.4": "42.8",
+                    "0.7": "",
+                    "0.6": "57.2"
+                }
+            }
+        },
+        "colorbar_url": "http://lsetiawan.github.io/PRISM_png/colorbar/tmean_colorbar.png",
+        "model_date": "2016-03-25T00:00:00Z",
+        "colormap_long_pixels": 256,
+        "colormap_short_pixels": 16,
+        "values": {
+            "max": 33.117275238037,
+            "min": 5.083016872406
+        },
+        "bbox": [
+            -125.021,
+            24.062,
+            -66.479,
+            49.938
+        ],
+        "key": "June",
+        "var": "Mean Air Temperature",
+        "image_url": "http://lsetiawan.github.io/PRISM_png/tmean_06.png",
+        "creation_timestamp": 1460505474,
+        "colormap": "tmean_colorbar"
+    },
+    {
+        "legends": {
+            "default": "v1",
+            "v1": {
+                "units": "Celcius (C)",
+                "colormap_tick_labels": {
+                    "0.9": "",
+                    "0.8": "22.0",
+                    "1.0": "> 30.0",
+                    "0.1": "",
+                    "0.0": "< -10.0",
+                    "0.3": "",
+                    "0.2": "-2.0",
+                    "0.5": "",
+                    "0.4": "6.0",
+                    "0.7": "",
+                    "0.6": "14.0"
+                }
+            },
+            "v2": {
+                "units": "Celcius (F)",
+                "colormap_tick_labels": {
+                    "0.9": "",
+                    "0.8": "71.6",
+                    "1.0": "> 71.6",
+                    "0.1": "",
+                    "0.0": "< 28.4",
+                    "0.3": "",
+                    "0.2": "28.4",
+                    "0.5": "",
+                    "0.4": "42.8",
+                    "0.7": "",
+                    "0.6": "57.2"
+                }
+            }
+        },
+        "colorbar_url": "http://lsetiawan.github.io/PRISM_png/colorbar/tmean_colorbar.png",
+        "model_date": "2016-03-25T00:00:00Z",
+        "colormap_long_pixels": 256,
+        "colormap_short_pixels": 16,
+        "values": {
+            "max": 36.761619567871,
+            "min": 8.1544208526611
+        },
+        "bbox": [
+            -125.021,
+            24.062,
+            -66.479,
+            49.938
+        ],
+        "key": "July",
+        "var": "Mean Air Temperature",
+        "image_url": "http://lsetiawan.github.io/PRISM_png/tmean_07.png",
+        "creation_timestamp": 1460505474,
+        "colormap": "tmean_colorbar"
+    },
+    {
+        "legends": {
+            "default": "v1",
+            "v1": {
+                "units": "Celcius (C)",
+                "colormap_tick_labels": {
+                    "0.9": "",
+                    "0.8": "22.0",
+                    "1.0": "> 30.0",
+                    "0.1": "",
+                    "0.0": "< -10.0",
+                    "0.3": "",
+                    "0.2": "-2.0",
+                    "0.5": "",
+                    "0.4": "6.0",
+                    "0.7": "",
+                    "0.6": "14.0"
+                }
+            },
+            "v2": {
+                "units": "Celcius (F)",
+                "colormap_tick_labels": {
+                    "0.9": "",
+                    "0.8": "71.6",
+                    "1.0": "> 71.6",
+                    "0.1": "",
+                    "0.0": "< 28.4",
+                    "0.3": "",
+                    "0.2": "28.4",
+                    "0.5": "",
+                    "0.4": "42.8",
+                    "0.7": "",
+                    "0.6": "57.2"
+                }
+            }
+        },
+        "colorbar_url": "http://lsetiawan.github.io/PRISM_png/colorbar/tmean_colorbar.png",
+        "model_date": "2016-03-25T00:00:00Z",
+        "colormap_long_pixels": 256,
+        "colormap_short_pixels": 16,
+        "values": {
+            "max": 35.753009796143,
+            "min": 7.6557350158691
+        },
+        "bbox": [
+            -125.021,
+            24.062,
+            -66.479,
+            49.938
+        ],
+        "key": "August",
+        "var": "Mean Air Temperature",
+        "image_url": "http://lsetiawan.github.io/PRISM_png/tmean_08.png",
+        "creation_timestamp": 1460505474,
+        "colormap": "tmean_colorbar"
+    },
+    {
+        "legends": {
+            "default": "v1",
+            "v1": {
+                "units": "Celcius (C)",
+                "colormap_tick_labels": {
+                    "0.9": "",
+                    "0.8": "22.0",
+                    "1.0": "> 30.0",
+                    "0.1": "",
+                    "0.0": "< -10.0",
+                    "0.3": "",
+                    "0.2": "-2.0",
+                    "0.5": "",
+                    "0.4": "6.0",
+                    "0.7": "",
+                    "0.6": "14.0"
+                }
+            },
+            "v2": {
+                "units": "Celcius (F)",
+                "colormap_tick_labels": {
+                    "0.9": "",
+                    "0.8": "71.6",
+                    "1.0": "> 71.6",
+                    "0.1": "",
+                    "0.0": "< 28.4",
+                    "0.3": "",
+                    "0.2": "28.4",
+                    "0.5": "",
+                    "0.4": "42.8",
+                    "0.7": "",
+                    "0.6": "57.2"
+                }
+            }
+        },
+        "colorbar_url": "http://lsetiawan.github.io/PRISM_png/colorbar/tmean_colorbar.png",
+        "model_date": "2016-03-25T00:00:00Z",
+        "colormap_long_pixels": 256,
+        "colormap_short_pixels": 16,
+        "values": {
+            "max": 31.436275482178,
+            "min": 4.0914044380188
+        },
+        "bbox": [
+            -125.021,
+            24.062,
+            -66.479,
+            49.938
+        ],
+        "key": "September",
+        "var": "Mean Air Temperature",
+        "image_url": "http://lsetiawan.github.io/PRISM_png/tmean_09.png",
+        "creation_timestamp": 1460505474,
+        "colormap": "tmean_colorbar"
+    },
+    {
+        "legends": {
+            "default": "v1",
+            "v1": {
+                "units": "Celcius (C)",
+                "colormap_tick_labels": {
+                    "0.9": "",
+                    "0.8": "22.0",
+                    "1.0": "> 30.0",
+                    "0.1": "",
+                    "0.0": "< -10.0",
+                    "0.3": "",
+                    "0.2": "-2.0",
+                    "0.5": "",
+                    "0.4": "6.0",
+                    "0.7": "",
+                    "0.6": "14.0"
+                }
+            },
+            "v2": {
+                "units": "Celcius (F)",
+                "colormap_tick_labels": {
+                    "0.9": "",
+                    "0.8": "71.6",
+                    "1.0": "> 71.6",
+                    "0.1": "",
+                    "0.0": "< 28.4",
+                    "0.3": "",
+                    "0.2": "28.4",
+                    "0.5": "",
+                    "0.4": "42.8",
+                    "0.7": "",
+                    "0.6": "57.2"
+                }
+            }
+        },
+        "colorbar_url": "http://lsetiawan.github.io/PRISM_png/colorbar/tmean_colorbar.png",
+        "model_date": "2016-03-25T00:00:00Z",
+        "colormap_long_pixels": 256,
+        "colormap_short_pixels": 16,
+        "values": {
+            "max": 26.389574050903,
+            "min": -1.2259504795074
+        },
+        "bbox": [
+            -125.021,
+            24.062,
+            -66.479,
+            49.938
+        ],
+        "key": "October",
+        "var": "Mean Air Temperature",
+        "image_url": "http://lsetiawan.github.io/PRISM_png/tmean_10.png",
+        "creation_timestamp": 1460505474,
+        "colormap": "tmean_colorbar"
+    },
+    {
+        "legends": {
+            "default": "v1",
+            "v1": {
+                "units": "Celcius (C)",
+                "colormap_tick_labels": {
+                    "0.9": "",
+                    "0.8": "22.0",
+                    "1.0": "> 30.0",
+                    "0.1": "",
+                    "0.0": "< -10.0",
+                    "0.3": "",
+                    "0.2": "-2.0",
+                    "0.5": "",
+                    "0.4": "6.0",
+                    "0.7": "",
+                    "0.6": "14.0"
+                }
+            },
+            "v2": {
+                "units": "Celcius (F)",
+                "colormap_tick_labels": {
+                    "0.9": "",
+                    "0.8": "71.6",
+                    "1.0": "> 71.6",
+                    "0.1": "",
+                    "0.0": "< 28.4",
+                    "0.3": "",
+                    "0.2": "28.4",
+                    "0.5": "",
+                    "0.4": "42.8",
+                    "0.7": "",
+                    "0.6": "57.2"
+                }
+            }
+        },
+        "colorbar_url": "http://lsetiawan.github.io/PRISM_png/colorbar/tmean_colorbar.png",
+        "model_date": "2016-03-25T00:00:00Z",
+        "colormap_long_pixels": 256,
+        "colormap_short_pixels": 16,
+        "values": {
+            "max": 23.652765274048,
+            "min": -7.2188410758972
+        },
+        "bbox": [
+            -125.021,
+            24.062,
+            -66.479,
+            49.938
+        ],
+        "key": "November",
+        "var": "Mean Air Temperature",
+        "image_url": "http://lsetiawan.github.io/PRISM_png/tmean_11.png",
+        "creation_timestamp": 1460505474,
+        "colormap": "tmean_colorbar"
+    },
+    {
+        "legends": {
+            "default": "v1",
+            "v1": {
+                "units": "Celcius (C)",
+                "colormap_tick_labels": {
+                    "0.9": "",
+                    "0.8": "22.0",
+                    "1.0": "> 30.0",
+                    "0.1": "",
+                    "0.0": "< -10.0",
+                    "0.3": "",
+                    "0.2": "-2.0",
+                    "0.5": "",
+                    "0.4": "6.0",
+                    "0.7": "",
+                    "0.6": "14.0"
+                }
+            },
+            "v2": {
+                "units": "Celcius (F)",
+                "colormap_tick_labels": {
+                    "0.9": "",
+                    "0.8": "71.6",
+                    "1.0": "> 71.6",
+                    "0.1": "",
+                    "0.0": "< 28.4",
+                    "0.3": "",
+                    "0.2": "28.4",
+                    "0.5": "",
+                    "0.4": "42.8",
+                    "0.7": "",
+                    "0.6": "57.2"
+                }
+            }
+        },
+        "colorbar_url": "http://lsetiawan.github.io/PRISM_png/colorbar/tmean_colorbar.png",
+        "model_date": "2016-03-25T00:00:00Z",
+        "colormap_long_pixels": 256,
+        "colormap_short_pixels": 16,
+        "values": {
+            "max": 21.63892364502,
+            "min": -13.351024627686
+        },
+        "bbox": [
+            -125.021,
+            24.062,
+            -66.479,
+            49.938
+        ],
+        "key": "December",
+        "var": "Mean Air Temperature",
+        "image_url": "http://lsetiawan.github.io/PRISM_png/tmean_12.png",
+        "creation_timestamp": 1460505474,
+        "colormap": "tmean_colorbar"
+    }
+]

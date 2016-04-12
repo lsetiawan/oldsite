@@ -1,0 +1,674 @@
+[
+    {
+        "legends": {
+            "default": "v1",
+            "v1": {
+                "units": "Millimeters (mm)",
+                "colormap_tick_labels": {
+                    "0.9": "",
+                    "0.8": "160.0",
+                    "1.0": "> 160.0",
+                    "0.1": "",
+                    "0.0": "0.0",
+                    "0.3": "",
+                    "0.2": "40.0",
+                    "0.5": "",
+                    "0.4": "80.0",
+                    "0.7": "",
+                    "0.6": "120.0"
+                }
+            },
+            "v2": {
+                "units": "Inches (in)",
+                "colormap_tick_labels": {
+                    "0.9": "",
+                    "0.8": "6.3",
+                    "1.0": "> 6.3",
+                    "0.1": "",
+                    "0.0": "0.0",
+                    "0.3": "",
+                    "0.2": "1.6",
+                    "0.5": "",
+                    "0.4": "3.1",
+                    "0.7": "",
+                    "0.6": "4.7"
+                }
+            }
+        },
+        "colorbar_url": "http://lsetiawan.github.io/PRISM_png/colorbar/ppt_colorbar.png",
+        "model_date": "2016-03-25T00:00:00Z",
+        "colormap_long_pixels": 256,
+        "colormap_short_pixels": 16,
+        "values": {
+            "max": 700.09564208984,
+            "min": 4.9004921913147
+        },
+        "bbox": [
+            -125.021,
+            24.062,
+            -66.479,
+            49.938
+        ],
+        "key": "January",
+        "var": "Precipitation",
+        "image_url": "http://lsetiawan.github.io/PRISM_png/ppt_01.png",
+        "creation_timestamp": 1460505474,
+        "colormap": "ppt_colorbar"
+    },
+    {
+        "legends": {
+            "default": "v1",
+            "v1": {
+                "units": "Millimeters (mm)",
+                "colormap_tick_labels": {
+                    "0.9": "",
+                    "0.8": "160.0",
+                    "1.0": "> 160.0",
+                    "0.1": "",
+                    "0.0": "0.0",
+                    "0.3": "",
+                    "0.2": "40.0",
+                    "0.5": "",
+                    "0.4": "80.0",
+                    "0.7": "",
+                    "0.6": "120.0"
+                }
+            },
+            "v2": {
+                "units": "Inches (in)",
+                "colormap_tick_labels": {
+                    "0.9": "",
+                    "0.8": "6.3",
+                    "1.0": "> 6.3",
+                    "0.1": "",
+                    "0.0": "0.0",
+                    "0.3": "",
+                    "0.2": "1.6",
+                    "0.5": "",
+                    "0.4": "3.1",
+                    "0.7": "",
+                    "0.6": "4.7"
+                }
+            }
+        },
+        "colorbar_url": "http://lsetiawan.github.io/PRISM_png/colorbar/ppt_colorbar.png",
+        "model_date": "2016-03-25T00:00:00Z",
+        "colormap_long_pixels": 256,
+        "colormap_short_pixels": 16,
+        "values": {
+            "max": 539.34326171875,
+            "min": 5.069016456604
+        },
+        "bbox": [
+            -125.021,
+            24.062,
+            -66.479,
+            49.938
+        ],
+        "key": "February",
+        "var": "Precipitation",
+        "image_url": "http://lsetiawan.github.io/PRISM_png/ppt_02.png",
+        "creation_timestamp": 1460505474,
+        "colormap": "ppt_colorbar"
+    },
+    {
+        "legends": {
+            "default": "v1",
+            "v1": {
+                "units": "Millimeters (mm)",
+                "colormap_tick_labels": {
+                    "0.9": "",
+                    "0.8": "160.0",
+                    "1.0": "> 160.0",
+                    "0.1": "",
+                    "0.0": "0.0",
+                    "0.3": "",
+                    "0.2": "40.0",
+                    "0.5": "",
+                    "0.4": "80.0",
+                    "0.7": "",
+                    "0.6": "120.0"
+                }
+            },
+            "v2": {
+                "units": "Inches (in)",
+                "colormap_tick_labels": {
+                    "0.9": "",
+                    "0.8": "6.3",
+                    "1.0": "> 6.3",
+                    "0.1": "",
+                    "0.0": "0.0",
+                    "0.3": "",
+                    "0.2": "1.6",
+                    "0.5": "",
+                    "0.4": "3.1",
+                    "0.7": "",
+                    "0.6": "4.7"
+                }
+            }
+        },
+        "colorbar_url": "http://lsetiawan.github.io/PRISM_png/colorbar/ppt_colorbar.png",
+        "model_date": "2016-03-25T00:00:00Z",
+        "colormap_long_pixels": 256,
+        "colormap_short_pixels": 16,
+        "values": {
+            "max": 509.13671875,
+            "min": 6.4118208885193
+        },
+        "bbox": [
+            -125.021,
+            24.062,
+            -66.479,
+            49.938
+        ],
+        "key": "March",
+        "var": "Precipitation",
+        "image_url": "http://lsetiawan.github.io/PRISM_png/ppt_03.png",
+        "creation_timestamp": 1460505474,
+        "colormap": "ppt_colorbar"
+    },
+    {
+        "legends": {
+            "default": "v1",
+            "v1": {
+                "units": "Millimeters (mm)",
+                "colormap_tick_labels": {
+                    "0.9": "",
+                    "0.8": "160.0",
+                    "1.0": "> 160.0",
+                    "0.1": "",
+                    "0.0": "0.0",
+                    "0.3": "",
+                    "0.2": "40.0",
+                    "0.5": "",
+                    "0.4": "80.0",
+                    "0.7": "",
+                    "0.6": "120.0"
+                }
+            },
+            "v2": {
+                "units": "Inches (in)",
+                "colormap_tick_labels": {
+                    "0.9": "",
+                    "0.8": "6.3",
+                    "1.0": "> 6.3",
+                    "0.1": "",
+                    "0.0": "0.0",
+                    "0.3": "",
+                    "0.2": "1.6",
+                    "0.5": "",
+                    "0.4": "3.1",
+                    "0.7": "",
+                    "0.6": "4.7"
+                }
+            }
+        },
+        "colorbar_url": "http://lsetiawan.github.io/PRISM_png/colorbar/ppt_colorbar.png",
+        "model_date": "2016-03-25T00:00:00Z",
+        "colormap_long_pixels": 256,
+        "colormap_short_pixels": 16,
+        "values": {
+            "max": 349.58236694336,
+            "min": 2.274628162384
+        },
+        "bbox": [
+            -125.021,
+            24.062,
+            -66.479,
+            49.938
+        ],
+        "key": "April",
+        "var": "Precipitation",
+        "image_url": "http://lsetiawan.github.io/PRISM_png/ppt_04.png",
+        "creation_timestamp": 1460505474,
+        "colormap": "ppt_colorbar"
+    },
+    {
+        "legends": {
+            "default": "v1",
+            "v1": {
+                "units": "Millimeters (mm)",
+                "colormap_tick_labels": {
+                    "0.9": "",
+                    "0.8": "160.0",
+                    "1.0": "> 160.0",
+                    "0.1": "",
+                    "0.0": "0.0",
+                    "0.3": "",
+                    "0.2": "40.0",
+                    "0.5": "",
+                    "0.4": "80.0",
+                    "0.7": "",
+                    "0.6": "120.0"
+                }
+            },
+            "v2": {
+                "units": "Inches (in)",
+                "colormap_tick_labels": {
+                    "0.9": "",
+                    "0.8": "6.3",
+                    "1.0": "> 6.3",
+                    "0.1": "",
+                    "0.0": "0.0",
+                    "0.3": "",
+                    "0.2": "1.6",
+                    "0.5": "",
+                    "0.4": "3.1",
+                    "0.7": "",
+                    "0.6": "4.7"
+                }
+            }
+        },
+        "colorbar_url": "http://lsetiawan.github.io/PRISM_png/colorbar/ppt_colorbar.png",
+        "model_date": "2016-03-25T00:00:00Z",
+        "colormap_long_pixels": 256,
+        "colormap_short_pixels": 16,
+        "values": {
+            "max": 227.03189086914,
+            "min": 0.58487606048584
+        },
+        "bbox": [
+            -125.021,
+            24.062,
+            -66.479,
+            49.938
+        ],
+        "key": "May",
+        "var": "Precipitation",
+        "image_url": "http://lsetiawan.github.io/PRISM_png/ppt_05.png",
+        "creation_timestamp": 1460505474,
+        "colormap": "ppt_colorbar"
+    },
+    {
+        "legends": {
+            "default": "v1",
+            "v1": {
+                "units": "Millimeters (mm)",
+                "colormap_tick_labels": {
+                    "0.9": "",
+                    "0.8": "160.0",
+                    "1.0": "> 160.0",
+                    "0.1": "",
+                    "0.0": "0.0",
+                    "0.3": "",
+                    "0.2": "40.0",
+                    "0.5": "",
+                    "0.4": "80.0",
+                    "0.7": "",
+                    "0.6": "120.0"
+                }
+            },
+            "v2": {
+                "units": "Inches (in)",
+                "colormap_tick_labels": {
+                    "0.9": "",
+                    "0.8": "6.3",
+                    "1.0": "> 6.3",
+                    "0.1": "",
+                    "0.0": "0.0",
+                    "0.3": "",
+                    "0.2": "1.6",
+                    "0.5": "",
+                    "0.4": "3.1",
+                    "0.7": "",
+                    "0.6": "4.7"
+                }
+            }
+        },
+        "colorbar_url": "http://lsetiawan.github.io/PRISM_png/colorbar/ppt_colorbar.png",
+        "model_date": "2016-03-25T00:00:00Z",
+        "colormap_long_pixels": 256,
+        "colormap_short_pixels": 16,
+        "values": {
+            "max": 260.68771362305,
+            "min": 0.29049584269524
+        },
+        "bbox": [
+            -125.021,
+            24.062,
+            -66.479,
+            49.938
+        ],
+        "key": "June",
+        "var": "Precipitation",
+        "image_url": "http://lsetiawan.github.io/PRISM_png/ppt_06.png",
+        "creation_timestamp": 1460505474,
+        "colormap": "ppt_colorbar"
+    },
+    {
+        "legends": {
+            "default": "v1",
+            "v1": {
+                "units": "Millimeters (mm)",
+                "colormap_tick_labels": {
+                    "0.9": "",
+                    "0.8": "160.0",
+                    "1.0": "> 160.0",
+                    "0.1": "",
+                    "0.0": "0.0",
+                    "0.3": "",
+                    "0.2": "40.0",
+                    "0.5": "",
+                    "0.4": "80.0",
+                    "0.7": "",
+                    "0.6": "120.0"
+                }
+            },
+            "v2": {
+                "units": "Inches (in)",
+                "colormap_tick_labels": {
+                    "0.9": "",
+                    "0.8": "6.3",
+                    "1.0": "> 6.3",
+                    "0.1": "",
+                    "0.0": "0.0",
+                    "0.3": "",
+                    "0.2": "1.6",
+                    "0.5": "",
+                    "0.4": "3.1",
+                    "0.7": "",
+                    "0.6": "4.7"
+                }
+            }
+        },
+        "colorbar_url": "http://lsetiawan.github.io/PRISM_png/colorbar/ppt_colorbar.png",
+        "model_date": "2016-03-25T00:00:00Z",
+        "colormap_long_pixels": 256,
+        "colormap_short_pixels": 16,
+        "values": {
+            "max": 246.02755737305,
+            "min": 0.14140495657921
+        },
+        "bbox": [
+            -125.021,
+            24.062,
+            -66.479,
+            49.938
+        ],
+        "key": "July",
+        "var": "Precipitation",
+        "image_url": "http://lsetiawan.github.io/PRISM_png/ppt_07.png",
+        "creation_timestamp": 1460505474,
+        "colormap": "ppt_colorbar"
+    },
+    {
+        "legends": {
+            "default": "v1",
+            "v1": {
+                "units": "Millimeters (mm)",
+                "colormap_tick_labels": {
+                    "0.9": "",
+                    "0.8": "160.0",
+                    "1.0": "> 160.0",
+                    "0.1": "",
+                    "0.0": "0.0",
+                    "0.3": "",
+                    "0.2": "40.0",
+                    "0.5": "",
+                    "0.4": "80.0",
+                    "0.7": "",
+                    "0.6": "120.0"
+                }
+            },
+            "v2": {
+                "units": "Inches (in)",
+                "colormap_tick_labels": {
+                    "0.9": "",
+                    "0.8": "6.3",
+                    "1.0": "> 6.3",
+                    "0.1": "",
+                    "0.0": "0.0",
+                    "0.3": "",
+                    "0.2": "1.6",
+                    "0.5": "",
+                    "0.4": "3.1",
+                    "0.7": "",
+                    "0.6": "4.7"
+                }
+            }
+        },
+        "colorbar_url": "http://lsetiawan.github.io/PRISM_png/colorbar/ppt_colorbar.png",
+        "model_date": "2016-03-25T00:00:00Z",
+        "colormap_long_pixels": 256,
+        "colormap_short_pixels": 16,
+        "values": {
+            "max": 261.94293212891,
+            "min": 0.30421489477158
+        },
+        "bbox": [
+            -125.021,
+            24.062,
+            -66.479,
+            49.938
+        ],
+        "key": "August",
+        "var": "Precipitation",
+        "image_url": "http://lsetiawan.github.io/PRISM_png/ppt_08.png",
+        "creation_timestamp": 1460505474,
+        "colormap": "ppt_colorbar"
+    },
+    {
+        "legends": {
+            "default": "v1",
+            "v1": {
+                "units": "Millimeters (mm)",
+                "colormap_tick_labels": {
+                    "0.9": "",
+                    "0.8": "160.0",
+                    "1.0": "> 160.0",
+                    "0.1": "",
+                    "0.0": "0.0",
+                    "0.3": "",
+                    "0.2": "40.0",
+                    "0.5": "",
+                    "0.4": "80.0",
+                    "0.7": "",
+                    "0.6": "120.0"
+                }
+            },
+            "v2": {
+                "units": "Inches (in)",
+                "colormap_tick_labels": {
+                    "0.9": "",
+                    "0.8": "6.3",
+                    "1.0": "> 6.3",
+                    "0.1": "",
+                    "0.0": "0.0",
+                    "0.3": "",
+                    "0.2": "1.6",
+                    "0.5": "",
+                    "0.4": "3.1",
+                    "0.7": "",
+                    "0.6": "4.7"
+                }
+            }
+        },
+        "colorbar_url": "http://lsetiawan.github.io/PRISM_png/colorbar/ppt_colorbar.png",
+        "model_date": "2016-03-25T00:00:00Z",
+        "colormap_long_pixels": 256,
+        "colormap_short_pixels": 16,
+        "values": {
+            "max": 238.44303894043,
+            "min": 3.630496263504
+        },
+        "bbox": [
+            -125.021,
+            24.062,
+            -66.479,
+            49.938
+        ],
+        "key": "September",
+        "var": "Precipitation",
+        "image_url": "http://lsetiawan.github.io/PRISM_png/ppt_09.png",
+        "creation_timestamp": 1460505474,
+        "colormap": "ppt_colorbar"
+    },
+    {
+        "legends": {
+            "default": "v1",
+            "v1": {
+                "units": "Millimeters (mm)",
+                "colormap_tick_labels": {
+                    "0.9": "",
+                    "0.8": "160.0",
+                    "1.0": "> 160.0",
+                    "0.1": "",
+                    "0.0": "0.0",
+                    "0.3": "",
+                    "0.2": "40.0",
+                    "0.5": "",
+                    "0.4": "80.0",
+                    "0.7": "",
+                    "0.6": "120.0"
+                }
+            },
+            "v2": {
+                "units": "Inches (in)",
+                "colormap_tick_labels": {
+                    "0.9": "",
+                    "0.8": "6.3",
+                    "1.0": "> 6.3",
+                    "0.1": "",
+                    "0.0": "0.0",
+                    "0.3": "",
+                    "0.2": "1.6",
+                    "0.5": "",
+                    "0.4": "3.1",
+                    "0.7": "",
+                    "0.6": "4.7"
+                }
+            }
+        },
+        "colorbar_url": "http://lsetiawan.github.io/PRISM_png/colorbar/ppt_colorbar.png",
+        "model_date": "2016-03-25T00:00:00Z",
+        "colormap_long_pixels": 256,
+        "colormap_short_pixels": 16,
+        "values": {
+            "max": 465.43853759766,
+            "min": 5.0879340171814
+        },
+        "bbox": [
+            -125.021,
+            24.062,
+            -66.479,
+            49.938
+        ],
+        "key": "October",
+        "var": "Precipitation",
+        "image_url": "http://lsetiawan.github.io/PRISM_png/ppt_10.png",
+        "creation_timestamp": 1460505474,
+        "colormap": "ppt_colorbar"
+    },
+    {
+        "legends": {
+            "default": "v1",
+            "v1": {
+                "units": "Millimeters (mm)",
+                "colormap_tick_labels": {
+                    "0.9": "",
+                    "0.8": "160.0",
+                    "1.0": "> 160.0",
+                    "0.1": "",
+                    "0.0": "0.0",
+                    "0.3": "",
+                    "0.2": "40.0",
+                    "0.5": "",
+                    "0.4": "80.0",
+                    "0.7": "",
+                    "0.6": "120.0"
+                }
+            },
+            "v2": {
+                "units": "Inches (in)",
+                "colormap_tick_labels": {
+                    "0.9": "",
+                    "0.8": "6.3",
+                    "1.0": "> 6.3",
+                    "0.1": "",
+                    "0.0": "0.0",
+                    "0.3": "",
+                    "0.2": "1.6",
+                    "0.5": "",
+                    "0.4": "3.1",
+                    "0.7": "",
+                    "0.6": "4.7"
+                }
+            }
+        },
+        "colorbar_url": "http://lsetiawan.github.io/PRISM_png/colorbar/ppt_colorbar.png",
+        "model_date": "2016-03-25T00:00:00Z",
+        "colormap_long_pixels": 256,
+        "colormap_short_pixels": 16,
+        "values": {
+            "max": 707.98126220703,
+            "min": 4.6906604766846
+        },
+        "bbox": [
+            -125.021,
+            24.062,
+            -66.479,
+            49.938
+        ],
+        "key": "November",
+        "var": "Precipitation",
+        "image_url": "http://lsetiawan.github.io/PRISM_png/ppt_11.png",
+        "creation_timestamp": 1460505474,
+        "colormap": "ppt_colorbar"
+    },
+    {
+        "legends": {
+            "default": "v1",
+            "v1": {
+                "units": "Millimeters (mm)",
+                "colormap_tick_labels": {
+                    "0.9": "",
+                    "0.8": "160.0",
+                    "1.0": "> 160.0",
+                    "0.1": "",
+                    "0.0": "0.0",
+                    "0.3": "",
+                    "0.2": "40.0",
+                    "0.5": "",
+                    "0.4": "80.0",
+                    "0.7": "",
+                    "0.6": "120.0"
+                }
+            },
+            "v2": {
+                "units": "Inches (in)",
+                "colormap_tick_labels": {
+                    "0.9": "",
+                    "0.8": "6.3",
+                    "1.0": "> 6.3",
+                    "0.1": "",
+                    "0.0": "0.0",
+                    "0.3": "",
+                    "0.2": "1.6",
+                    "0.5": "",
+                    "0.4": "3.1",
+                    "0.7": "",
+                    "0.6": "4.7"
+                }
+            }
+        },
+        "colorbar_url": "http://lsetiawan.github.io/PRISM_png/colorbar/ppt_colorbar.png",
+        "model_date": "2016-03-25T00:00:00Z",
+        "colormap_long_pixels": 256,
+        "colormap_short_pixels": 16,
+        "values": {
+            "max": 749.0341796875,
+            "min": 5.837272644043
+        },
+        "bbox": [
+            -125.021,
+            24.062,
+            -66.479,
+            49.938
+        ],
+        "key": "December",
+        "var": "Precipitation",
+        "image_url": "http://lsetiawan.github.io/PRISM_png/ppt_12.png",
+        "creation_timestamp": 1460505474,
+        "colormap": "ppt_colorbar"
+    }
+]
