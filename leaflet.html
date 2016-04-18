@@ -36,11 +36,21 @@
             imageBounds2 = [[24.062, -125.021], [49.938, -66.479]];
       var precipt1 = L.imageOverlay(imageUrl2, imageBounds2)
 
+      // Test EVI layer with EPSG:4326
+      var imageUrl_EVI1 = 'EVI_12_test.png',
+            imageBounds_EVI1 = [[5.183, -127.829], [50.0, -59.056]];
+      var EVI1 = L.imageOverlay(imageUrl_EVI1, imageBounds_EVI1)
+
+      // Test EVI layer with EPSG:3857
+      var imageUrl_EVI2 = 'EVI_12_test2.png',
+            imageBounds_EVI2 = [[5.183, -127.829], [50.0, -59.056]];
+      var EVI2 = L.imageOverlay(imageUrl_EVI2, imageBounds_EVI2)
+
       var map = new L.Map('map', {zoom: 9, layers: [googleLayer, precipt]});
       map.fitBounds(imageBounds);
 
       map.addLayer(googleLayer);
-      map.addControl(new L.Control.Layers( {'OSM':osm, 'Google':googleLayer}, {"EPSG:3857 PPT":precipt, "EPSG:4326 PPT":precipt1, "OSU SST":sst}));
+      map.addControl(new L.Control.Layers( {'OSM':osm, 'Google':googleLayer}, {"EPSG:3857 PPT":precipt, "EPSG:4326 PPT":precipt1,"EPSG:4326 EVI":EVI1,"EPSG:3857 EVI":EVI2, "OSU SST":sst}));
     </script>
   </body>
 </html>
