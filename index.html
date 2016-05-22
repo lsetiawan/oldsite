@@ -1,56 +1,51 @@
 <!DOCTYPE html>
-<html>
-  <head>
-    <title>Climatology</title>
-    <link rel="stylesheet" href="http://cdn.leafletjs.com/leaflet/v0.7.7/leaflet.css" />
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <title>Landung Setiawan Blog Site</title>
+
+    <link rel="stylesheet" href="css/bootstrap.min.css"/>
+
+    <link rel="stylesheet" href="http://cdn.leafletjs.com/leaflet/v0.7.7/leaflet.css"/>
     <script src="http://cdn.leafletjs.com/leaflet/v0.7.7/leaflet.js"></script>
-    <script src="http://maps.google.com/maps/api/js?v=3.2&sensor=false"></script>
-    <script src="http://matchingnotes.com/javascripts/leaflet-google.js"></script>
-    <style>
-        .leaflet-google-layer{
-              z-index: 0;
-          }
-        .leaflet-map-pane{
-              z-index: 100;
-          }
+
+    <style type="text/css">
+        html, body {
+            width: 100%;
+            height: 100%;
+        }
     </style>
-  </head>
-  <body>
-    <div style="width:100%; height:600px;" id="map"></div>
-    <script type='text/javascript'>
-      var googleLayer = new L.Google('TERRAIN');
-      var osm = new L.TileLayer('http://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png');
+</head>
+<body>
+    <div class="container">
+        <div class="jumbotron">
+            <div class="row text-center">
+                <div class="col-xs-12 col-md-6">
+                    <p><img src="img/headshot.jpg" alt="landung headshot" /></p>
+                </div>
+                <div class="col-xs-12 col-md-6">
+                    <h1>Landung Setiawan Blog</h1>
+                    <p>My adventure inside the world of technology.</p>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div id="blog-1" class="container">
+        <div class="row">
+            <hr />
+        </div>
+        <div class="row pull-right">
+            <p>By Landung Setiawan | <span id="date"></span> </p>
+        </div>
+    </div>
 
-      // Test Precipt layer with EPSG:3857 
-      var imageUrl = 'http://lsetiawan.github.io/PRISM_png/ppt_test.png',
-            imageBounds = [[24.062, -125.021], [49.938, -66.479]];
-      var precipt = L.imageOverlay(imageUrl, imageBounds)
-
-      // Test Layer from OSU      
-      var imageUrl1 = 'http://agate.coas.oregonstate.edu/nvs/clim/sst/jul.png',
-            imageBounds1 = [[22.00,-135.0000],[51.00,-106.0000]];
-      var sst = L.imageOverlay(imageUrl1, imageBounds1)
-
-      // Test Precipt layer with EPSG:4326
-      var imageUrl2 = 'http://lsetiawan.github.io/PRISM_png/ppt_12.png',
-            imageBounds2 = [[24.062, -125.021], [49.938, -66.479]];
-      var precipt1 = L.imageOverlay(imageUrl2, imageBounds2)
-
-      // Test EVI layer with EPSG:4326
-      var imageUrl_EVI1 = 'EVI_12_test.png',
-            imageBounds_EVI1 = [[5.183, -127.829], [50.0, -59.056]];
-      var EVI1 = L.imageOverlay(imageUrl_EVI1, imageBounds_EVI1)
-
-      // Test EVI layer with EPSG:3857
-      var imageUrl_EVI2 = 'EVI_12_test2.png',
-            imageBounds_EVI2 = [[5.183, -127.829], [50.0, -59.056]];
-      var EVI2 = L.imageOverlay(imageUrl_EVI2, imageBounds_EVI2)
-
-      var map = new L.Map('map', {zoom: 9, layers: [googleLayer, precipt]});
-      map.fitBounds(imageBounds);
-
-      map.addLayer(googleLayer);
-      map.addControl(new L.Control.Layers( {'OSM':osm, 'Google':googleLayer}, {"EPSG:3857 PPT":precipt, "EPSG:4326 PPT":precipt1,"EPSG:4326 EVI":EVI1,"EPSG:3857 EVI":EVI2, "OSU SST":sst}));
+    <script type="text/javascript">
+        document.getElementById('date').innerHTML = timeStamp();
     </script>
-  </body>
+    <script type="text/javascript" src="js/bootstrap.min.js"></script>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.3/jquery.min.js"></script>
+</body>
 </html>
